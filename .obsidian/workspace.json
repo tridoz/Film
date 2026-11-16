@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9daf6a2c8d6e5b15",
+        "id": "de76d038209d026b",
         "type": "tabs",
         "children": [
           {
-            "id": "b678d025c3a136fe",
+            "id": "538c8dfe2e2e1587",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lingua.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lingua"
             }
           }
         ]
@@ -100,7 +104,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
@@ -164,11 +168,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,10 +186,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "b678d025c3a136fe",
+  "active": "538c8dfe2e2e1587",
   "lastOpenFiles": [
-    "Untitled.base",
+    "Divinità.md",
+    "Religione e spiritualità.md",
     "Lingua.md",
+    "Indice.md",
+    "Untitled.base",
     "Biologia e caratteristiche.md",
     "Differenze individuali.md",
     "Debolezze.md",
@@ -194,14 +202,12 @@
     "Longevità.md",
     "Trasormazione.md",
     "Origine biologica.md",
-    "Religione e spiritualità.md",
     "Eresie.md",
     "Clero.md",
     "Luoghi Sacri.md",
     "Rituali.md",
     "Morte.md",
     "Origine spirituale.md",
-    "Divinità.md",
     "Economia e commercio.md",
     "Mercato nero.md",
     "Ricchezza.md",

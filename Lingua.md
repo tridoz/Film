@@ -12,15 +12,6 @@ Ho organizzato tutto in sezioni, includendo **regole grammaticali, fonologia, or
 **Versione:** 11.0  
 **Stato:** raccolta delle regole e delle forme decise fino al 16 novembre 2026.
 
-**Convenzione di lettura:**
-
-- **Confermato:** decisione approvata.
-    
-- **Da definire:** aspetto ancora aperto.
-    
-- Gli esempi schematici servono a illustrare le regole e non introducono necessariamente nuove parole nel vocabolario.
-    
-
 # **Indice**
 
 1. **[[#1. Principi generali]]**
@@ -315,14 +306,14 @@ La lunghezza tipica delle parole semplici tende a essere compresa tra tre e sei 
 
 Distribuzione indicativa concordata:
 
-|Numero di sillabe|Frequenza|
-|---|---|
-|1–2|Estremamente rare|
-|3|20%|
-|4|55%|
-|5|15%|
-|6|10%|
-|7 o più|Estremamente rare|
+| Numero di sillabe | Frequenza         |
+| ----------------- | ----------------- |
+| 1–2               | Estremamente rare |
+| 3                 | 20%               |
+| 4                 | 55%               |
+| 5                 | 15%               |
+| 6                 | 10%               |
+| 7 o più           | Estremamente rare |
 
 Le parole di una o due sillabe e quelle di sette o più sillabe sono ammesse, ma devono rimanere eccezionali.
 
