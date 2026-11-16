@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3267314a819672a1",
+        "id": "9daf6a2c8d6e5b15",
         "type": "tabs",
         "children": [
           {
-            "id": "a7fb358e120277f1",
+            "id": "b678d025c3a136fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -129,7 +129,7 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": "geo"
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -181,8 +181,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "a7fb358e120277f1",
+  "active": "b678d025c3a136fe",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Lingua.md",
     "Biologia e caratteristiche.md",
     "Differenze individuali.md",
     "Debolezze.md",
@@ -207,8 +209,6 @@
     "Produzione.md",
     "Alimentazione.md",
     "Valuta.md",
-    "Forze militari e difesa.md",
-    "Nemici storici.md",
     "Untitled.canvas"
   ]
 }
