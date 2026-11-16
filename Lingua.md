@@ -14,6 +14,8 @@ Ho organizzato tutto in sezioni, includendo **regole grammaticali, fonologia, or
 
 # **Indice**
 
+0. **[Vocabolario](https://docs.google.com/spreadsheets/d/1AEq8KdA6NpYwInOolDzkHUyw6UJ0aykpKKxtL8HHl9w/edit?usp=sharing)**
+	
 1. **[[#1. Principi generali]]**
     
 2. **[[#2. Inventario dei suoni]]**

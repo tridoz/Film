@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 309.98046875
   },
   "right": {
     "id": "46fae6e137bd192c",
@@ -188,6 +188,8 @@
   },
   "active": "538c8dfe2e2e1587",
   "lastOpenFiles": [
+    "vocabolario.csv",
+    "vocabolario_vampirico_1450_radici.csv",
     "Divinità.md",
     "Religione e spiritualità.md",
     "Lingua.md",
@@ -214,7 +216,6 @@
     "Tasse.md",
     "Produzione.md",
     "Alimentazione.md",
-    "Valuta.md",
     "Untitled.canvas"
   ]
 }
