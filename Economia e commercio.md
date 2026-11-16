@@ -1,0 +1,7 @@
+[[Valuta]]
+[[Economia e commercio]]
+[[Alimentazione]]
+[[Produzione]]
+[[Tasse]]
+[[Ricchezza]]
+[[Mercato nero]]

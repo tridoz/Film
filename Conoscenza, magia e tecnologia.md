@@ -1,0 +1,7 @@
+[[Sistema magico]]
+[[Accademie]]
+[[Alichimia]]
+[[Artefatti]]
+[[Tecnologia]]
+[[Archivi]]
+[[Ricerca]]

@@ -1,0 +1,8 @@
+[[Origine biologica]]
+[[Trasormazione]]
+[[Longevità]]
+[[Riproduzione]]
+[[Alimentazione(bio)]]
+[[Poteri]]
+[[Debolezze]]
+[[Differenze individuali]]
