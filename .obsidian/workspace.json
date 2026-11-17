@@ -4,24 +4,148 @@
     "type": "split",
     "children": [
       {
-        "id": "de76d038209d026b",
-        "type": "tabs",
+        "id": "05db37cff8ee1120",
+        "type": "split",
         "children": [
           {
-            "id": "538c8dfe2e2e1587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lingua.md",
-                "mode": "source",
-                "source": false
+            "id": "0a7f225fc0573c95",
+            "type": "tabs",
+            "dimension": 26.289095519864752,
+            "children": [
+              {
+                "id": "920892a26475bea1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Divinità.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Divinità"
+                }
+              }
+            ]
+          },
+          {
+            "id": "2bb5a4fa75c16510",
+            "type": "tabs",
+            "dimension": 73.71090448013526,
+            "children": [
+              {
+                "id": "fca91a09cc398d26",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Lingua"
-            }
+              {
+                "id": "5167b0c4c2192421",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Selera.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Selera"
+                }
+              },
+              {
+                "id": "7ab89e07bf7ee427",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Averon.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Averon"
+                }
+              },
+              {
+                "id": "aadfc88bec4960fd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Nerathis.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Nerathis"
+                }
+              },
+              {
+                "id": "f91cd17ecfeb71b7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Elyndra.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Elyndra"
+                }
+              },
+              {
+                "id": "e672808dc3247e22",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Malveris.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Malveris"
+                }
+              },
+              {
+                "id": "a36cb75efb81dbbb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tharvok.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Tharvok"
+                }
+              },
+              {
+                "id": "b5998348588b7263",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ilyssara.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ilyssara"
+                }
+              }
+            ],
+            "currentTab": 7
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -83,7 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.98046875
+    "width": 200
   },
   "right": {
     "id": "46fae6e137bd192c",
@@ -186,36 +310,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "538c8dfe2e2e1587",
+  "active": "b5998348588b7263",
   "lastOpenFiles": [
+    "Ilyssara.md",
+    "Divinità.md",
+    "Selera.md",
+    "Tharvok.md",
+    "Malveris.md",
+    "Elyndra.md",
+    "Nerathis.md",
+    "Averon.md",
+    "Vita dopo la morte.md",
+    "Religione e spiritualità.md",
+    "Aristocrazia.md",
+    "Società e classi sociali.md",
+    "Indice.md",
+    "Gerarchie sociali.md",
+    "Relazioni con il mondo esterno.md",
+    "Mobilità sociale.md",
+    "Biologia e caratteristiche.md",
+    "Economia e commercio.md",
+    "Produzione.md",
+    "Commercio.md",
+    "Valuta.md",
+    "Capitale.md",
+    "Alimentazione(bio).md",
+    "Lingua.md",
     "vocabolario.csv",
     "vocabolario_vampirico_1450_radici.csv",
-    "Divinità.md",
-    "Religione e spiritualità.md",
-    "Lingua.md",
-    "Indice.md",
     "Untitled.base",
-    "Biologia e caratteristiche.md",
     "Differenze individuali.md",
     "Debolezze.md",
-    "Poteri.md",
-    "Alimentazione(bio).md",
-    "Riproduzione.md",
-    "Longevità.md",
-    "Trasormazione.md",
-    "Origine biologica.md",
-    "Eresie.md",
-    "Clero.md",
-    "Luoghi Sacri.md",
-    "Rituali.md",
-    "Morte.md",
-    "Origine spirituale.md",
-    "Economia e commercio.md",
-    "Mercato nero.md",
-    "Ricchezza.md",
-    "Tasse.md",
-    "Produzione.md",
-    "Alimentazione.md",
     "Untitled.canvas"
   ]
 }

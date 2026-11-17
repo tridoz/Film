@@ -120,16 +120,16 @@ L'inventario consonantico stabilito è:
 
 Pronuncia di riferimento:
 
-|Grafia|Pronuncia|
-|---|---|
-|TH|Come il suono inglese di _think_|
-|SH|Come `sc` in italiano _scena_|
-|H|Aspirata, come la `h` inglese di _house_|
-|R|Vibrante, come la `r` italiana|
-|J|Come la `y` inglese di _yes_|
-|ZH|Una Z seguita da un suono di aspirazione|
-|DH|Digramma consonantico unitario|
-|KH|Digramma consonantico unitario|
+| Grafia | Pronuncia                                |
+| ------ | ---------------------------------------- |
+| TH     | Come il suono inglese di _think_         |
+| SH     | Come `sc` in italiano _scena_            |
+| H      | Aspirata, come la `h` inglese di _house_ |
+| R      | Vibrante, come la `r` italiana           |
+| J      | Come la `y` inglese di _yes_             |
+| ZH     | Una Z seguita da un suono di aspirazione |
+| DH     | Digramma consonantico unitario           |
+| KH     | Digramma consonantico unitario           |
 
 `DH` e `KH` si comportano come `TH`, `SH` e `ZH`: ciascuno rappresenta un'unità consonantica.
 

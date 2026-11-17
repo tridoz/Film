@@ -1,6 +1,6 @@
 [[Divinità]]
 [[Origine spirituale]]
-[[Morte]]
+**[[Vita dopo la morte]]**
 [[Rituali]]
 [[Luoghi Sacri]]
 [[Clero]]
